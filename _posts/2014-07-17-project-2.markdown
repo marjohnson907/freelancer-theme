@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2022-11-03
+img: image_auroraborealis.JPG
+alt: Cross-stitch Aurora Borealis
+Pattern Credit: PenumbraCharts on Etsy
+category: Cross Stitch
+description: I grew up in Alaska and wanted to do a more stitch-intensive project. This was fun and tedious at the same time.
 ---
