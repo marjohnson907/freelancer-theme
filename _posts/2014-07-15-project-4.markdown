@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
+date: 2022-11-03
+img: image_newyork.JPG
+alt: Cross Stitch New York City Skyline
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Cross Stitch
+description: I started this project while traveling on a Trans-Atlantic cruise from Spain which ended in New York City. This was my first trip to New York. 
 ---
