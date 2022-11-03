@@ -4,7 +4,7 @@ modal-id: 4
 date: 2022-11-03
 img: image_newyork.JPG
 alt: Cross Stitch New York City Skyline
-client: Start Bootstrap
+client: SatsumaStreet on Etsy
 category: Cross Stitch
 description: I started this project while traveling on a Trans-Atlantic cruise from Spain which ended in New York City. This was my first trip to New York. 
 ---
