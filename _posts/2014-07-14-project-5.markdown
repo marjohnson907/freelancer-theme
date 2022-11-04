@@ -6,5 +6,5 @@ img: image_emeraldcity.JPG
 alt: Cross Stitch Wizard of Oz
 client: SatsumaStreet on Etsy
 category: Cross Stitch
-description: This project was fun because I enjoy using different bright colors. I did mess up while stitching the rainbow and had to pull out half of it so that it met the horizon at the correct place. Credit for the pattern goes to SatsumaStreet on Etsy.
+description: This project was fun because I enjoy using different bright colors. I did mess up while stitching the rainbow and had to pull out half of it so that it met the horizon at the correct place. Pattern credit goes to <a href="https://www.etsy.com/shop/SatsumaStreet/">SatsumaStreet on Etsy<a/>.
 ---
