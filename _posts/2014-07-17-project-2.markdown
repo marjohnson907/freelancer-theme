@@ -6,5 +6,5 @@ img: image_auroraborealis.JPG
 alt: Cross-stitch Aurora Borealis
 Pattern Credit: PenumbraCharts on Etsy
 category: Cross Stitch
-description: I grew up in Alaska and wanted to do a more stitch-intensive project. This was fun and tedious at the same time.
+description: I grew up in Alaska and wanted to do a more stitch-intensive project. This was fun and tedious at the same time. Pattern credit goes to PenumbraCharts on Etsy.
 ---

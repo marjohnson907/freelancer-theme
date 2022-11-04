@@ -6,5 +6,5 @@ img: image_awesome.JPG
 alt: Cross Stitch I'm Not Here To Be Average, I'm Here To Be Awesome
 pattern credit: Stitchrovia on Etsy
 category: Cross Stitch
-description: Sometimes you need a cross-stitch to build up your self-confidence. Positive affirmations work wonders.
+description: Sometimes you need a cross-stitch to build up your self-confidence. Positive affirmations work wonders. Pattern credit goes to Stitchrovia on Etsy.
 ---
