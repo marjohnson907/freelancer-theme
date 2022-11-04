@@ -7,5 +7,17 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 
+<table> 
+    <tr> 
+        <th>Upcoming Project</th>
+        <th>Pattern Credit</th>
+        <th>Size</th>
+    </tr>
+    <tr>
+        <td>Awesome Myth Narwhal</td>
+        <td><a href="https://etsy.com/shop/stitchrovia/">Stitchrovia on Etsy<a/>
+        <td>101 stitches x 140 stitches</td>
+    </tr>
+</table>
 ---
