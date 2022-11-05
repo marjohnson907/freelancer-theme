@@ -1,12 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: 
+date: 2022-11-05
+img: grid.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+category: Upcoming Projects
 description: 
 <table> 
     <tr> 
