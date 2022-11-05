@@ -1,0 +1,30 @@
+---
+layout: default
+modal-id: 6
+date: 2022-11-05
+img: grid.jpeg
+alt: image-alt
+category: Upcoming Projects
+description: <table> 
+    <tr> 
+        <th>Upcoming Project</th>
+        <th>Pattern Credit</th>
+        <th>Size</th>
+    </tr>
+    <tr>
+        <td>Awesome Myth Narwhal</td>
+        <td><a href="https://www.etsy.com/listing/736381694/awesome-myth-narwhal-cross-stitch?ref=yr_purchases">Stitchrovia on Etsy</a></td>
+        <td>101 x 140 stitches</td>
+    </tr>
+    <tr>
+        <td>Tiny Claude Monet Bundle</td>
+        <td><a href="https://www.etsy.com/listing/1049810705/3-in-1-bundle-tiny-claude-monet-cross?ref=yr_purchases">CrossStitchObsession on Etsy</a></td>
+        <td>31 x 38 stitch, 42 x 42 stitches, 28 x 42 stitches</td>
+    </tr>
+    <tr>
+        <td>Marvel Superhero Characters</td>
+        <td><a href="https://www.etsy.com/listing/1009236746/counted-cross-stitch-sampler-mini?ref=yr_purchases">KnotalotUK on Etsy</a></td>
+        <td>160 x 180 stitches</td>
+    </tr>
+</table>
+---
