@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2022-11-05
-img: grid.jpeg
+img: grid.png
 alt: image-alt
 category: Upcoming Projects
 description: <table> 
