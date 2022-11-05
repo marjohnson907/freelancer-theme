@@ -2,8 +2,8 @@
 layout: default
 modal-id: 6
 date: 2022-11-05
-img: grid.jpg
-alt: image-alt
-category: Upcoming Projects
-description:  
+img: image_jackrussell.jpg
+alt: Cross Stitch Jack Russell
+category: Cross Stitch
+description:  I chose this project because I have a 13-year-old Jack Russell Terrier. He is a stubborn and headstrong; yet, I love him deeply. Pattern credit goes to <a href="https://www.etsy.com/shop/indiepopdesign/">Indiepopdesign on Etsy</a>.
 ---
