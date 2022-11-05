@@ -6,5 +6,5 @@ img: image_newyork.JPG
 alt: Cross Stitch New York City Skyline
 client: SatsumaStreet on Etsy
 category: Cross Stitch
-description: I started this project while traveling on a Trans-Atlantic cruise from Spain which ended in New York City. This was my first trip to New York. Pattern credit goes to <a href="https://www.etsy.com/shop/SatsumaStreet/">SatsumaStreet on Etsy<a/>.
+description: I started this project while traveling on a Trans-Atlantic cruise from Spain which ended in New York City. This was my first trip to New York. Pattern credit goes to <a href="https://www.etsy.com/shop/SatsumaStreet/">SatsumaStreet on Etsy</a>.
 ---
