@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2022-11-05
-img: grid.png
+img: ![Alt text](../../../../C:/DEV/freelancer-theme/img/portfolio/cabin.png)
 alt: image-alt
 category: Upcoming Projects
 description: <table> 
