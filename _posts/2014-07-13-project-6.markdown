@@ -5,8 +5,7 @@ date: 2022-11-05
 img: grid.jpeg
 alt: image-alt
 category: Upcoming Projects
-description: 
-<table> 
+description: <table> 
     <tr> 
         <th>Upcoming Project</th>
         <th>Pattern Credit</th>
